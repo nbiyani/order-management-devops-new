@@ -1,3 +1,4 @@
 function order(username){
-    console.log('test');
+    console.log('order');
+    console.log('2nd order');
 }
