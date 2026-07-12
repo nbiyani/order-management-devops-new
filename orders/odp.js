@@ -1,4 +1,6 @@
 function order(username){
     console.log('order');
-    console.log('2nd order');
+    console.info('Order Id is order record id');
+    fetch(username)
+    
 }
